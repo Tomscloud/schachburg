@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.schachburg.at/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.schachburg.at/assets/logo-chess-masters.jpg</image:loc>
+      <image:title>Waidhofen Chess Masters — Wappen</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.schachburg.at/assets/logo-schachburg.jpg</image:loc>
+      <image:title>Schachburg Waidhofen/Ybbs Logo</image:title>
+    </image:image>
+  </url>
+</urlset>

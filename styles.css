@@ -626,6 +626,7 @@ a:hover { color: var(--gold-500); }
   margin: 0 0 22px;
   color: var(--gold-400);
 }
+.contact-card address { font-style: normal; }
 .contact-card dl {
   display: grid;
   grid-template-columns: max-content minmax(0, 1fr);

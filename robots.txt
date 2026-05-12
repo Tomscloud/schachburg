@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap (kanonische Domain)
+Sitemap: https://www.schachburg.at/sitemap.xml
