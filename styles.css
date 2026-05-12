@@ -556,7 +556,7 @@ a:hover { color: var(--gold-500); }
   background: #fff;
   border-radius: var(--radius);
   padding: 28px 24px;
-  height: 140px;
+  height: 170px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -574,6 +574,8 @@ a:hover { color: var(--gold-500); }
   object-fit: contain;
   filter: saturate(0.95);
 }
+.sponsor-grid li.sponsor-tall { padding: 12px 18px; }
+.sponsor-grid li.sponsor-tall img { max-height: 150px; }
 
 /* ============= CONTACT ============= */
 .contact { background: var(--cream); }
@@ -692,7 +694,8 @@ a:hover { color: var(--gold-500); }
 
 /* ============= RESPONSIVE ============= */
 @media (max-width: 880px) {
-  .two-col { grid-template-columns: 1fr; }
+  .two-col,
+  .contact .two-col { grid-template-columns: 1fr; }
   .tournament-grid { grid-template-columns: 1fr; gap: 32px; }
   .facts { grid-template-columns: 1fr; }
 }

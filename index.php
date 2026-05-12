@@ -329,7 +329,7 @@
           <li><img src="assets/sponsors/rlb-ybbstal.png" alt="Raiffeisenlandesbank Ybbstal" width="782" height="201" loading="lazy" decoding="async" /></li>
           <li><img src="assets/sponsors/bene.jpg" alt="Bene — Inspirierende Büros seit 1790" width="1677" height="467" loading="lazy" decoding="async" /></li>
           <li><img src="assets/sponsors/asko.jpg" alt="ASKÖ" width="1512" height="428" loading="lazy" decoding="async" /></li>
-          <li><img src="assets/sponsors/schach-boehlerwerk.jpg" alt="Schach Böhlerwerk KSV — gegründet 1948" width="630" height="945" loading="lazy" decoding="async" /></li>
+          <li class="sponsor-tall"><img src="assets/sponsors/schach-boehlerwerk.jpg" alt="Schach Böhlerwerk KSV — gegründet 1948" width="630" height="945" loading="lazy" decoding="async" /></li>
         </ul>
       </div>
     </section>
