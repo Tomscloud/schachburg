@@ -278,33 +278,6 @@ a:hover { color: var(--gold-500); }
   flex-wrap: wrap;
 }
 
-.hero-scroll {
-  position: absolute;
-  left: 50%;
-  bottom: 32px;
-  transform: translateX(-50%);
-  width: 26px;
-  height: 42px;
-  border: 2px solid rgba(255,255,255,0.4);
-  border-radius: 14px;
-}
-.hero-scroll span {
-  position: absolute;
-  left: 50%;
-  top: 8px;
-  transform: translateX(-50%);
-  width: 3px;
-  height: 8px;
-  background: var(--gold-400);
-  border-radius: 2px;
-  animation: scrollHint 1.8s ease-in-out infinite;
-}
-@keyframes scrollHint {
-  0%   { transform: translate(-50%, 0); opacity: 1; }
-  60%  { transform: translate(-50%, 14px); opacity: 0; }
-  100% { transform: translate(-50%, 0); opacity: 0; }
-}
-
 /* ============= BUTTONS ============= */
 .btn {
   display: inline-flex;

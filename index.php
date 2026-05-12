@@ -65,9 +65,6 @@
           <a class="btn btn-primary" href="#turnier">Zum Turnier</a>
           <a class="btn btn-ghost" href="#kontakt">Kontakt aufnehmen</a>
         </div>
-        <div class="hero-scroll" aria-hidden="true">
-          <span></span>
-        </div>
       </div>
     </section>
 
